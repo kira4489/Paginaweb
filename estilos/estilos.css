@@ -210,7 +210,7 @@ form{
   display: flex;
   flex-direction: column;
   background-color:#008f39;
-  margin-right: 560px;
+ /* margin-right: 560px;*/
   margin-top: 60px;
 }
 
